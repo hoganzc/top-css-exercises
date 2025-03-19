@@ -1,0 +1,19 @@
+.odd {
+    background-color: #ffa5b2;
+    font: Verdana, sans-serif;
+}
+
+#unique {
+    font-size: 24px;
+}
+
+#number_two {
+    color: blue;
+    font-size: 36px;
+}
+
+#number_four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
